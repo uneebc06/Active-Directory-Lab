@@ -7,6 +7,6 @@ The lab is done on VMWare Workstation, a virtualization platform. It includes th
 
 ### Creating The Domain
 
-### Creating Organizational Units
+#### Creating Organizational Units
 
-### Group Policy
+#### Group Policy
