@@ -4,7 +4,9 @@ This lab showcases Windows Server administration, identity management, DNS, Grou
 ## Lab Environment
 The lab is done on VMWare Workstation, a virtualization platform. It includes the Windows Server 2019 and Windows 11.
 
-## Setup
+## Project Setup
+
+### Server Setup
 
 ### Creating The Domain
 
