@@ -28,7 +28,53 @@ Two VMs created on VMWare Workstation:<br><br>
 </ul>
 
 ### Creating Organizational Units
-<ul></ul>
+<ul>
+  <li>Create users and groups</li>
+  <li>Adding security groups</li>
+</ul>
 
 ### Group Policy
-<ul></ul>
+<ul>
+  <li>Password policy</li>
+  <li>Account lockout policy</li>
+  <li>Login restrictions</li>
+  <li>Windows Firewall settings</li>
+</ul>
+
+### Join Windows Client To Domain
+<ul>
+  <li>Configure DNS server to point to domain controller</li>
+  <li>Change computer's domain on Windows System settings</li>
+  <li>Login using account from domain</li>
+</ul>
+
+## Scenarios
+### Employee Onboarding
+<ul>
+  
+</ul>
+
+### Employee Offboarding
+<ul>
+  
+</ul>
+
+### Department Transfer
+<ul>
+  
+</ul>
+
+### Account Lockout
+<ul>
+  
+</ul>
+
+### Password Reset
+<ul>
+  
+</ul>
+
+### DNS Troubleshooting
+<ul>
+  
+</ul>
