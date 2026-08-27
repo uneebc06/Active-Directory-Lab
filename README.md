@@ -21,7 +21,10 @@ Two VMs created on VMWare Workstation:<br><br>
 <ul>
 <li>Rename computer</li>
   <li>Configure static IP address</li>
-  <li></li>
+  <li>Configure DNS</li>
+  <li>Install Active Directory Domain Services</li>
+  <li>Promote from Standalone to Domain Controller</li>
+  <li>Create a new forest as well as domain name</li>
 </ul>
 
 ### Creating Organizational Units
