@@ -45,7 +45,7 @@ Two VMs created on VMWare Workstation:<br><br>
   <li>Add members in security groups</li>
 </ul>
 <div align=center>
-<img src="" width=30%>
+<img src="Screenshots/2. Project Setup/2. Creating OU's/3. User Creation Example.png" width=30%>
 <img src="" width=30%>
 <img src="Screenshots/2. Project Setup/2. Creating OU's/6. After OU Changes.png" width=30%>
 </div>
