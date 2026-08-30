@@ -31,9 +31,9 @@ Two VMs created on VMWare Workstation:<br><br>
   <li>Create a new forest as well as domain name</li>
 </ul>
 <div align=center>
+<img src="Screenshots/2. Project Setup/1. Creating Domain/3. Static IP Assignment.png" width=30%>
 <img src="" width=30%>
-<img src="" width=30%>
-<img src="Screenshots/2. Project Setup/1. Creating Domain/6. After Change.png" width=30%>
+<img src="Screenshots/2. Project Setup/1. Creating Domain/6. After Change.png" width=33%>
 </div>
 
 
