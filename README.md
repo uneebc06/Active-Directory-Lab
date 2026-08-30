@@ -55,7 +55,7 @@ Two VMs created on VMWare Workstation:<br><br>
 <ul>
   <li>Password policy</li>
   <li>Account lockout policy</li>
-  <li>Login restrictions</li>
+  <li>RDP policies</li>
   <li>Windows Firewall settings</li>
 </ul>
 
