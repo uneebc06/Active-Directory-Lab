@@ -47,7 +47,7 @@ Two VMs created on VMWare Workstation:<br><br>
 <div align=center>
 <img src="" width=30%>
 <img src="" width=30%>
-<img src="" width=30%>
+<img src="Screenshots/2. Project Setup/2. Creating OU's/6. After OU Changes.png" width=30%>
 </div>
 
 
