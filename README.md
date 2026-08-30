@@ -20,6 +20,8 @@ Two VMs created on VMWare Workstation:<br><br>
 ## Project Setup
 
 ### Creating The Domain
+
+
 <ul>
 <li>Rename computer</li>
   <li>Configure static IP address</li>
@@ -28,6 +30,12 @@ Two VMs created on VMWare Workstation:<br><br>
   <li>Promote from Standalone to Domain Controller</li>
   <li>Create a new forest as well as domain name</li>
 </ul>
+<div align=center>
+<img src="" width=30%>
+<img src="" width=30%>
+<img src="Screenshots/2. Project Setup/1. Creating Domain/6. After Change.png" width=30%>
+</div>
+
 
 ### Creating Organizational Units
 <ul>
