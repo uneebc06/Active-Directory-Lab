@@ -32,7 +32,7 @@ Two VMs created on VMWare Workstation:<br><br>
 </ul>
 <div align=center>
 <img src="Screenshots/2. Project Setup/1. Creating Domain/3. Static IP Assignment.png" width=30%>
-<img src="" width=30%>
+<img src="Screenshots/2. Project Setup/1. Creating Domain/5. New Forest - Domain Promotion.png" width=32%>
 <img src="Screenshots/2. Project Setup/1. Creating Domain/6. After Change.png" width=33%>
 </div>
 
