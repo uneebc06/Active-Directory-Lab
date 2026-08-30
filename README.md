@@ -39,8 +39,8 @@ Two VMs created on VMWare Workstation:<br><br>
 
 ### Creating Organizational Units
 <ul>
-  <li>Create users and groups</li>
-  <li>Adding security groups</li>
+  <li>Create users in OUs</li>
+  <li>Create security groups</li>
 </ul>
 
 ### Group Policy
