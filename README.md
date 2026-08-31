@@ -58,6 +58,11 @@ Two VMs created on VMWare Workstation:<br><br>
   <li>RDP policies</li>
   <li>Windows Firewall settings</li>
 </ul>
+<div align=center>
+<img src="Screenshots/2. Project Setup/3. Group Policy/1. GPO Creation.png" width=32%>
+<img src="Screenshots/2. Project Setup/3. Group Policy/3. Password Policy SS.png" width=32%>
+<img src="Screenshots/2. Project Setup/3. Group Policy/5. Account Lockout Policy SS.png" width=32%>
+</div>
 
 ### Join Windows Client To Domain
 <ul>
