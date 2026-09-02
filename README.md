@@ -66,6 +66,7 @@ Two VMs created on VMWare Workstation:<br><br>
 
 ### Join Windows Client To Domain
 <ul>
+  <li>Setup DHCP server on Windows Server</li>
   <li>Configure DNS server to point to domain controller</li>
   <li>Change computer's domain on Windows System settings</li>
   <li>Login using account from domain</li>
