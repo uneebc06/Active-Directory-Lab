@@ -71,6 +71,11 @@ Two VMs created on VMWare Workstation:<br><br>
   <li>Change computer's domain on Windows System settings</li>
   <li>Login using account from domain</li>
 </ul>
+<div align=center>
+<img src="Screenshots/2. Project Setup/4. Joining Windows 11 Client To Domain/1. DHCP Installation on Server.png" width=32%>
+<img src="Screenshots/2. Project Setup/4. Joining Windows 11 Client To Domain/4. Account User.png" width=32%>
+</div>
+
 
 ## Scenarios
 ### Employee Onboarding
