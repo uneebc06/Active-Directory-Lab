@@ -86,12 +86,16 @@ Two VMs created on VMWare Workstation:<br><br>
   <li>Configure initial password</li>
 </ul>
 
+[Watch how I did this]()
+
 ### Employee Offboarding
 <ul>
   <li>Disable user account</li>
   <li>Remove group memberships</li>
   <li>Move account to a disabled users OU</li>
 </ul>
+
+[Watch how I did this]()
 
 ### Department Transfer
 <ul>
@@ -106,12 +110,16 @@ Two VMs created on VMWare Workstation:<br><br>
   <li>Unlock the account</li>
 </ul>
 
+[Watch how I did this](Screenshots/3.%20Project%20Scenarios/Account%20Lockout/Account%20Lockout.mp4)
+
 ### Password Reset
 <ul>
   <li>Identify the account that needs a password reset</li>
   <li>Reset the password as admin</li>
   <li>Force a password change at next login</li>
 </ul>
+
+[Watch how I did this]()
 
 ### DNS Troubleshooting
 <ul>
