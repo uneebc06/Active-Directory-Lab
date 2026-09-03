@@ -86,7 +86,7 @@ Two VMs created on VMWare Workstation:<br><br>
   <li>Configure initial password</li>
 </ul>
 
-[Watch how I did this]()
+[Watch how I did this](Screenshots/3.%20Project%20Scenarios/Employee%20Onboarding)
 
 ### Employee Offboarding
 <ul>
