@@ -95,7 +95,7 @@ Two VMs created on VMWare Workstation:<br><br>
   <li>Move account to a disabled users OU</li>
 </ul>
 
-[Watch how I did this](Screenshots/3.ProjectScenarios/EmployeeOffboarding/EmployeeOffboarding.mp4)
+[Watch how I did this](Screenshots/3.%20Project%20Scenarios/Employee%20Offboarding/Employee%20Offboarding.mp4)
 
 ### Department Transfer
 <ul>
