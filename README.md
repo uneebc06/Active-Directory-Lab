@@ -104,6 +104,8 @@ Two VMs created on VMWare Workstation:<br><br>
   <li>Add new security groups</li>
 </ul>
 
+[Watch how I did this](Screenshots/3.%20Project%20Scenarios/Department%20Transfer/Department%20Transfer.mp4)
+
 ### Account Lockout
 <ul>
   <li>Identify the locked account</li>
